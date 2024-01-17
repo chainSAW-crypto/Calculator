@@ -20,6 +20,8 @@ JavaCalc is a Java program consisting of three files: Main.java, UserInput.java,
 1. Compile the files:
 2. Run the program:
 
+
+# Functions used:
 ```bash
 javac Main.java UserInput.java Calculator.java
 
